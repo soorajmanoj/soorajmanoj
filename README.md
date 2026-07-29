@@ -1,6 +1,6 @@
 ### Hi, I'm Sooraj
 
-MS in Data Science, Rochester Institute of Technology (May 2026). I build data engineering and ML pipelines end to end — streaming and batch architectures, ETL, and applied ML.
+MS in Data Science, Rochester Institute of Technology (May 2026). I design and build data pipelines end to end — streaming and batch architectures, ETL, and applied ML — and back them with tests and CI rather than just a demo script.
 
 **Reach me:** [soorajmanoj@gmail.com](mailto:soorajmanoj@gmail.com) · [LinkedIn](https://www.linkedin.com/in/sooraj-kakkanatt/) · [Portfolio](https://soorajmanoj.github.io)
 
