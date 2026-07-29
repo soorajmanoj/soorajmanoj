@@ -82,7 +82,9 @@ Co-authored with Anshuman Mohapatra, Bhaskar Sreenivas Pavan Akkena, and advisor
 
 ### Certifications
 
-Microsoft Azure AI Fundamentals (AI-900) · Diploma in Programming and Data Science, IIT Madras · Six Sigma White Belt (Council for Six Sigma Certification)
+- Microsoft Azure AI Fundamentals (AI-900)
+- Diploma in Programming and Data Science, IIT Madras
+- Six Sigma White Belt (Council for Six Sigma Certification)
 
 <!-- ---
 
