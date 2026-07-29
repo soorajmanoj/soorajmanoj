@@ -1,6 +1,6 @@
 ### Hi, I'm Sooraj
 
-MS in Data Science, Rochester Institute of Technology (May 2026). I design and build data pipelines end to end — streaming and batch architectures, ETL, and applied ML — and back them with tests and CI rather than just a demo script. Recent work spans a Kafka-based Lambda architecture for transaction processing, a PySpark ETL pipeline normalizing healthcare data into a snowflake schema, a locally-hosted RAG assistant, and a co-authored research paper on bias in LLM-generated content.
+MS in Data Science, Rochester Institute of Technology (May 2026). I design and build data pipelines end to end — streaming and batch architectures, ETL, and applied ML — and back them with tests and CI rather than just a demo script.
 
 **Reach me:** [soorajmanoj@gmail.com](mailto:soorajmanoj@gmail.com) · [LinkedIn](https://www.linkedin.com/in/sooraj-kakkanatt/) · [Portfolio](https://soorajmanoj.github.io)
 
